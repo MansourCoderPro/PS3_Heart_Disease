@@ -122,5 +122,5 @@ To run the example notebook:
 
 ## Acknowledgements
 
-This solution and dataset are inspired by Stanford's CS229 course material, particularly on supervised learning and neural network applications for classification tasks.
+This solution and dataset are inspired by Stanford's CS229 course material, particularly on supervised learning and neural network applications.
 
